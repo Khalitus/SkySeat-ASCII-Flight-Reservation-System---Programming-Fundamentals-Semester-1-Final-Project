@@ -73,7 +73,7 @@ Safe handling of user input
 
 ## FUTURE IMPROVEMENTS
 
-Ticket cancellation
-Flight scheduling (date & time)
-A number of passengers in booking.
+Ticket cancellation, 
+Flight scheduling (date & time), 
+A number of passengers in booking, 
 Graphical User Interface (GUI).
