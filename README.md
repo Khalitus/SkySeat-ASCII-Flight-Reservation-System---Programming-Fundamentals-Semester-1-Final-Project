@@ -17,7 +17,7 @@ Processing of menu-driven console programs.
 
 Flights which are pre-calculated and have particular ID, route, and a price depending on the class.
 ASCII visualization in 4x6 seat map.
-Seat classification:
+**Seat classification:**
   - Row A – First Class
   - Row B – Business Class
   - Rows C & D – Economy Class
@@ -29,10 +29,10 @@ Reveal all the reserves in case of leaving the program.
 
 ## TECHNOLOGIES & CONCEPTS USED
 
-Language:  
+**Language:**
 C++
 
-Concepts:  
+**Concepts:**
 Structures  
 Arrays and 2D arrays  
 Functions  
@@ -49,7 +49,7 @@ The ticket is all stored as a text file which is named tickets.txt. When the pro
 O – Available seat  
 X – Booked seat  
 
-Seat format examples:  
+**Seat format examples:** 
 A1, B3, C4
 
 ## LEARNING OUTCOMES
@@ -61,15 +61,15 @@ Safe handling of user input
 
 ## PROJECT TEAM
 
-Khalitus Ali Bin Hassan (F25CSC025)
-Numair Ali Siddiqui (F25CSC030)
-Hamza Ali Siddiqui (F25CSC052)
-Muhammad Maaz, Choudhary (F25CSC112)
+**Khalitus Ali Bin Hassan (F25CSC025)**,
+**Numair Ali Siddiqui (F25CSC030)**,
+**Hamza Ali Siddiqui (F25CSC052)**,
+**Muhammad Maaz, Choudhary (F25CSC112)**
 
-Course: Programming Fundamental.  
-Major: Computer Science.  
-University: Salim Habib University.  
-Semester: 1st Semester Fall 2025.
+**Course:** Programming Fundamental.  
+**Major:** Computer Science.  
+**University:** Salim Habib University.  
+**Semester:** 1st Semester Fall 2025.
 
 ## FUTURE IMPROVEMENTS
 
